@@ -80,3 +80,32 @@ background-color: black;
 
 }
 /* header section end */
+
+/* catagory start */
+.catagory_header{
+    text-align: left;
+    text-transform: capitalize;
+    font-size: 25px;
+    margin: 10px 0px;
+    color: #4f4747;
+}
+.catagory_card_image{
+    padding: 15px;
+    height: 120px;
+}
+.card-title{
+    margin-bottom: 0.5rem;
+    font-size: 14px;
+    text-align: center;
+    text-transform: capitalize;
+}
+.row{
+    --bs-gutter-x:0;
+}
+.card{
+    border:none;
+    border-right: 1px solid rgb(139, 127, 127);
+    border-bottom: 1px solid rgb(139, 127, 127);
+}
+
+/* catary end */
